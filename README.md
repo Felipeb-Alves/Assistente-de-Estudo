@@ -12,5 +12,5 @@
 
 ## Instalação da IA local Ollama:  
 
-*  Baixar e instalar o Ollama para usar IA local para conversão do texto extraido para código python;  
+*  Baixar e instalar o Ollama para usar IA local para fazer a leitura do pdf e gerar as explicações;  
 *  Após instalar o Ollama, utilizar o comando no PowerShell: "ollama pull codellama".
